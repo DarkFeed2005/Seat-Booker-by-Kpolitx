@@ -1,7 +1,15 @@
-# SeatBooker 🚌 
+# Seat Booker 🚌 
 ## Modern 3D Bus Seat Booking App for Sri Lanka
 
 SeatBooker is a comprehensive, modern bus seat booking application designed specifically for Sri Lanka's transportation needs. Built with React, Go, and Supabase, it features a stunning 3D interface, multi-language support, and complete booking management.
+
+<p align="center">
+ <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="react" width="70" height="70"/> </a>
+<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="70" height="70"/> </a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="70" height="70"/> </a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://attact.co/_next/image?url=%2Fframer-motion-logo.png&w=1080&q=75" alt="figma" width="90" height="80"/> </a>
+ <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vite" alt="vite" width="70" height="70"/> </a>
+</p>
 
 ## ✨ Features
 
