@@ -1,4 +1,4 @@
-# Seat Booke 🚌 
+# Seat Booker 🚌 
 ## Modern 3D Bus Seat Booking App for Sri Lanka
 
 SeatBooker is a comprehensive, modern bus seat booking application designed specifically for Sri Lanka's transportation needs. Built with React, Go, and Supabase, it features a stunning 3D interface, multi-language support, and complete booking management.
