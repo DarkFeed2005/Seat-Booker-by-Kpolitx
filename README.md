@@ -10,7 +10,6 @@ SeatBooker is a comprehensive, modern bus seat booking application designed spec
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://attact.co/_next/image?url=%2Fframer-motion-logo.png&w=1080&q=75" alt="figma" width="90" height="80"/> </a>
  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vite" alt="vite" width="70" height="70"/> </a>
 </p>
-
 ## ✨ Features
 
 ### 🎨 Modern UI/UX
